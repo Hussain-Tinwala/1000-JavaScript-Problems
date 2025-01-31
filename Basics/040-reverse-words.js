@@ -12,5 +12,4 @@ function reverseWords() {
 
     console.log("Reversed Sentence:", reversedSentence);
 }
-
 reverseWords();
